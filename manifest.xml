@@ -1,0 +1,11 @@
+<manifest projecttype="ACCOUNTCUSTOMIZATION">
+  <projectname>SDF_Demo</projectname>
+  <frameworkversion>1.0</frameworkversion>
+  <dependencies>
+    <features>
+    </features>
+    <objects>
+    </objects>
+    <applications/>
+  </dependencies>
+</manifest>
